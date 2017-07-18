@@ -1,0 +1,8 @@
+To run project
+
+- go to the directory "project"
+- install dependencies "npm install express body-parser"
+- run command "node server.js"
+- open localhost:3000
+
+
